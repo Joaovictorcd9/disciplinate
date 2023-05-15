@@ -1,0 +1,1 @@
+É importante que todos tenham  conciência sobre as funções e comandos do git
